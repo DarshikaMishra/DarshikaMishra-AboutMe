@@ -1,0 +1,31 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin: 6rem;
+  /* items-center justify-center bg-white p-5 */
+}
+
+.contentWrapper {
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  width: 90%;
+  max-width: 56rem;
+  margin: 3rem auto;
+}
+
+.label {
+  color: #070796;
+  font-weight: bold;
+  display: block;
+}
+
+.projBackground {
+  background-color: rgb(217, 213, 213);
+  border-color: #070796;
+  border: 2px solid;
+  padding: 20px;
+}
