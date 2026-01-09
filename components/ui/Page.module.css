@@ -1,0 +1,17 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contentWrapper {
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  width: 90%;
+  max-width: 56rem;
+  margin: 3rem auto;
+}
